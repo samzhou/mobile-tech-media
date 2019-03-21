@@ -1,4 +1,4 @@
-# 移动技术相关的媒体
+# 移动技术相关的公众号
 `阿凡达头条`编辑们关注的技术媒体
 
 
@@ -39,7 +39,7 @@
 - [阿里巴巴中间件](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU4NzU0MDIzOQ==&scene=124&#wechat_redirect)
 
 其他
-- [美团技术团队](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5NjQ5MTI5OA==&scene=124&#wechat_redirect)
+- [美团技术团队](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5NjQ5MTI5OA==&scene=124&#wechat_redirect)⭐️
 - [谷歌开发者](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzAwODY4OTk2Mg==&scene=124&#wechat_redirect)
 - [58无线技术](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI2NzI4MTEwNA==&scene=124&#wechat_redirect)
 - [有赞Coder](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzAxOTY5MDMxNA==&scene=124&#wechat_redirect)
@@ -50,7 +50,7 @@
 ## 纯技术
 
 大前端
-- [前端之巅](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUxMzcxMzE5Ng==&scene=124&#wechat_redirect)
+- [前端之巅](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUxMzcxMzE5Ng==&scene=124&#wechat_redirect)⭐️
 - [前端大全](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzAxODE2MjM1MA==&scene=124&#wechat_redirect)
 - [全栈开发者中心](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5MzMyNzg0MA==&scene=124&#wechat_redirect)
 - [云前端](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI0MDYzOTEyOA==&scene=124&#wechat_redirect)（2019.2.19）
@@ -76,7 +76,7 @@ DevOps
 - [DevOps时代](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI0Njc5ODkxMA==&scene=124&#wechat_redirect)
 
 综合
-- [架构师之路](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5ODYxMDA5OQ==&scene=124&#wechat_redirect)
+- [架构师之路](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5ODYxMDA5OQ==&scene=124&#wechat_redirect)⭐️
 - [GitChat](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIyMjYyMzg3MA==&scene=124&#wechat_redirect)
 - [高可用架构](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzAwMDU1MTE1OQ==&scene=124&#wechat_redirect)
 - [InfoQ](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5MDE0Mjc4MA==&scene=124&#wechat_redirect)
@@ -84,8 +84,8 @@ DevOps
 - [阮一峰的网络日志](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI4NjAxNjY4Nw==&scene=124&#wechat_redirect)
 - [小道消息](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5ODIyMTE0MA==&scene=124&#wechat_redirect)
 - [小饭桌](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA3OTMxMDUzOQ==&scene=124&#wechat_redirect)
-- [开源中国](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5NzM0MjcyMQ==&scene=124&#wechat_redirect)
-- [开发者技术前线](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIyMjQ0MTU0NA==&scene=124&#wechat_redirect)
+- [开源中国](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5NzM0MjcyMQ==&scene=124&#wechat_redirect)⭐️
+- [开发者技术前线](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIyMjQ0MTU0NA==&scene=124&#wechat_redirect)⭐️
 - [极客公园](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MTMwNDMwODQ0MQ==&scene=124&#wechat_redirect)
 - [TensorFlow](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU1OTMyNDcxMQ==&scene=126&bizpsid=0#wechat_redirect)：Google官方账号，人工智能 TensorFlow
 
